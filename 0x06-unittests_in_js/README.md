@@ -1,1 +1,1 @@
-unittests in javascript
+unittests in JS
